@@ -1,0 +1,13 @@
+DATA/HORA:02/10/2017-14:20:41---->Nova conexao recebida, endereco: ('127.0.0.1', 55034)
+DATA/HORA:02/10/2017-14:20:41---->Nova mensagem ainda nao processada recebida: b'Alarme - Data Center: Texto SMS'
+DATA/HORA:02/10/2017-14:20:41---->Nova thread iniciada! Mensagem que deu inicio: Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:20:45---->Envio de novo SMS: Alarme - Data Center: Texto SMS    Para:61992015874
+DATA/HORA:02/10/2017-14:20:45---->Fim da thread de forma pacifica!
+DATA/HORA:02/10/2017-14:22:12---->Nova conexao recebida, endereco: ('127.0.0.1', 55246)
+DATA/HORA:02/10/2017-14:22:12---->Nova mensagem ainda nao processada recebida: b'Alarme - Data Center: Texto SMS'
+DATA/HORA:02/10/2017-14:23:37---->Nova conexao recebida, endereco: ('127.0.0.1', 55320)
+DATA/HORA:02/10/2017-14:23:37---->Nova mensagem ainda nao processada recebida: b'Alarme - Data Center: Texto SMS'
+DATA/HORA:02/10/2017-14:23:37---->Nova thread iniciada! Mensagem que deu inicio: Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:23:42---->Envio de novo SMS: Alarme - Data Center: Texto SMS    Para:61992015874
+DATA/HORA:02/10/2017-14:23:42---->Fim da thread de forma pacifica!
+

@@ -1,0 +1,14 @@
+DATA/HORA:02/10/2017-14:26:16---->FALHA> Execucao Email, provavelmente problema no arquivo Emails.txt
+DATA/HORA:02/10/2017-14:26:16---->FALHA> Execucao Telegram
+DATA/HORA:02/10/2017-14:26:16---->FALHA> Execucao SMS
+DATA/HORA:02/10/2017-14:26:42---->FALHA> Execucao Email, provavelmente problema no arquivo Emails.txt
+DATA/HORA:02/10/2017-14:26:42---->FALHA> Execucao Telegram
+DATA/HORA:02/10/2017-14:26:42---->FALHA> Execucao SMS
+DATA/HORA:02/10/2017-14:45:16---->FALHA> Execucao Email, provavelmente problema no arquivo Emails.txt
+DATA/HORA:02/10/2017-14:45:16---->FALHA> Execucao Telegram
+DATA/HORA:02/10/2017-14:45:16---->FALHA> Execucao SMS
+DATA/HORA:02/10/2017-14:53:52---->FALHA> Execucao Email, provavelmente problema no arquivo Emails.txt
+DATA/HORA:02/10/2017-14:53:52---->FALHA> Execucao Telegram
+DATA/HORA:02/10/2017-14:53:52---->FALHA> Execucao SMS
+DATA/HORA:03/10/2017-19:56:28---->FALHA> Execucao SMS
+DATA/HORA:03/10/2017-20:06:13---->FALHA> Execucao SMS

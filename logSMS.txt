@@ -1,0 +1,80 @@
+DATA/HORA:02/10/2017-14:20:36---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-14:20:41---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:22:12---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:23:32---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-14:23:37---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:25:42---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:42:42---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-14:42:47---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:49:05---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Texto SMS
+DATA/HORA:02/10/2017-14:50:31---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-14:54:18---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-14:55:01---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-14:57:04---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-14:57:34---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:04:47---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-17:04:52---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:08:23---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-17:08:28---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:15:35---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-17:15:40---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:24:31---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:27:07---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:29:14---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:35:46---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:41:12---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:02/10/2017-17:41:17---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:41:56---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-17:42:26---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-18:05:32---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-18:06:54---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-18:11:02---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-18:16:16---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:02/10/2017-18:18:10---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-19:36:17---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:03/10/2017-19:36:22---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-19:38:50---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-19:56:14---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:03/10/2017-19:57:45---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:03/10/2017-19:57:50---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-19:59:11---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-20:06:01---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:03/10/2017-20:07:43---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:03/10/2017-20:07:48---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:03/10/2017-20:08:24---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:04/10/2017-19:35:14---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:04/10/2017-19:35:19---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:04/10/2017-19:40:24---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:04/10/2017-19:40:29---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:04/10/2017-19:41:32---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-16:56:49---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-16:56:54---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:00:28---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:01:06---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-17:01:11---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:37:31---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-17:37:36---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:39:37---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:40:51---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:43:54---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:44:55---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:45:34---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:35---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:35---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:36---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:37---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:38---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:43---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:43---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:46---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:46---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-17:49:46---->Sms enviado ao Sms server:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-18:23:13---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-18:23:18---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Texto SMS
+DATA/HORA:05/10/2017-18:26:47---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-18:26:52---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Gerador 1 Warning
+DATA/HORA:05/10/2017-18:29:20---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-18:29:25---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Alarme - Data Center: Gerador 1 Warning
+DATA/HORA:05/10/2017-18:30:12---->Sms enviado ao Sms server:   Mensagem:Alarme - Data Center: Gerador 1 Warning
+DATA/HORA:05/10/2017-18:30:55---->ATENCAO> Tentativa de criacao do Sms server
+DATA/HORA:05/10/2017-18:31:00---->Sms enviado ao Sms server e Sms Server criado aqui:   Mensagem:Alarme - Data Center: Gerador 1 Warning

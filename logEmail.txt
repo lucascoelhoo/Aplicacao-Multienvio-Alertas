@@ -1,0 +1,2 @@
+DATA/HORA:02/10/2017-14:20:29---->Email enviado:   Subject:Data Center /   Body:Alarme: Texto Email
+
